@@ -1,6 +1,21 @@
 # NFL Receiver Dashboard
 
-This app is a dashboard that runs an analysis on any desired receiver (WRs or TEs) who has logged at least 30 total targets in the 2019/20 season. Player info, a game log, and six visualizations of various statistics are displayed for the selected player.
+* This app is a dashboard that runs an analysis on any desired receiver (WRs or TEs) who has logged at least 30 total targets in the 2019/20 season. Player info, a game log, and six visualizations of various statistics are displayed for the selected player.
+* Large amount of data
+  * Exploratory Data Analysis (Analysis, Visualization, Insights)
+  * Data Source: APIs, DataBases & .csv's
+
+* Technologies used:
+  * Python
+    * Pandas
+    * numpy
+    * tmdbv3api 
+    * statsmodels
+    * matplotlib
+    * seaborn
+    * streamlit
+  * VSCode
+  * StreamLit Cloud
 
 ## **[CLICK HERE](https://share.streamlit.io/lschimidtc/nfl-receiver-dashboard/main/index.py) to visit the app!**
 
