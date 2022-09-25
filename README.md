@@ -9,7 +9,6 @@
   * Python
     * Pandas
     * numpy
-    * tmdbv3api 
     * statsmodels
     * matplotlib
     * seaborn
